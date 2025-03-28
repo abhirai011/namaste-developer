@@ -1,0 +1,14 @@
+{
+  "name": "namaste-developer",
+  "version": "1.0.0",
+  "description": "This is React by Abhijeet",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Abhijeet kumar",
+  "license": "ISC"
+}
