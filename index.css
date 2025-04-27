@@ -56,3 +56,26 @@
   background-color: #f0f0f0;
   margin: 20px;
 }
+.login {
+  padding: 0 20px;
+  /* all: unset; */
+  cursor: pointer;
+}
+.filter {
+  display: flex;
+}
+a {
+  cursor: pointer;
+  color: #000;
+  text-decoration: none;
+}
+a:hover,
+a:active {
+  color: #000;
+  text-decoration: none;
+}
+
+.user-card {
+  padding: 10px;
+  border: 1px solid black;
+}
